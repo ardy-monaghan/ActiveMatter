@@ -1,0 +1,12 @@
+name = "ActiveMatter"
+uuid = "dc351431-8bf5-4f1f-b083-d70fdc6619d6"
+authors = ["Ross Monaghan <r.monaghan24@imperial.ac.uk>"]
+version = "0.1.0"
+
+[deps]
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+
+[compat]
+Revise = "3.6.2"
+StaticArrays = "1.9.8"
