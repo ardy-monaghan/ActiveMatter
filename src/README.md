@@ -1,0 +1,3 @@
+Active matter solver based heavily on SoftSquishyMatter.
+
+Was going to fork but decided might be easier to do my own implementation, however, currently I have copied a lot of their code over... 
